@@ -152,9 +152,9 @@ layers:
   - ''
   - RGB BRD
   - RGB BRI
-  - ''
-  - ''
-  - ''
+  - RGB COLOR HSB(104,68,57)
+  - RGB EFF
+  - RGB SPI
   - ''
   - ''
   - ''
@@ -165,8 +165,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
+  - '&bl BL_TOG'
+  - RGB SPD
   - RGB TOG
   - ''
   - ''
