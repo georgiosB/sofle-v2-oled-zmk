@@ -131,12 +131,12 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - RGB COLOR HSB(132,72,40)
+  - RGB EFF
+  - RGB EFR
+  - RGB SPI
+  - RGB SPD
+  - RGB ON
   - EP TOG
   - RGB HUD
   - RGB HUI
@@ -144,7 +144,7 @@ layers:
   - RGB SAI
   - RGB EFF
   - ''
-  - ''
+  - BT NXT
   - ''
   - ''
   - ''
@@ -160,7 +160,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&bl BL_CYCLE'
   - ''
   - ''
   - ''
@@ -174,7 +174,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&bl BL_TOG'
   - ''
   - ''
   - {type: held}
